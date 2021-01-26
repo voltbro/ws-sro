@@ -1,4 +1,4 @@
-# ws-sro
+# Worldskills"ServiceRobotics"
 The HEX folder contains the firmware files for remote download of the Arduino sketch;
 
 The TB-ir-module-tester folder contains an Arduino sketch for testing the thermal imager;
